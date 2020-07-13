@@ -1,4 +1,4 @@
-# Introduction to Deep Learning course resources
+# Introduction to Deep Learning course resources (Forked)
 https://www.coursera.org/learn/intro-to-deep-learning
 
 ## Running on Google Colab (tested for all weeks)
